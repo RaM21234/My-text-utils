@@ -7,4 +7,5 @@ The website is a text editing website which can be used to make changes to the t
 ### `HTML` `Javascript`
 
 ## Snaps:
-![alt text]()
+![alt text](1.PNG)
+![alt text](2.PNG)
